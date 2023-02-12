@@ -10,6 +10,10 @@
 |3. OWASP Top 10 Security Risks & Vulnerabilities | 
 |4. OWASP Cheat Sheet |
 |5. Content Security Policy (CSP) |
+|6. Cross-Origin Resource Sharing (CORS) |
+|7. What is TLS? |
+|8. What is bcrypt? |
+|9. Server Security |
 
 # 1. HTTPS matters
 
@@ -25,19 +29,50 @@
 
 # 3. OWASP Top 10 Security Risks & Vulnerabilities
 
-> The OWASP Top 10 is a list of the ten most common and critical web application security risks. It is designed to help developers identify and address security vulnerabilities in their applications. The list is updated regularly and currently includes the following risks:
+> The OWASP Top 10 is a list of the ten most common and critical web application security risks. It is designed to help developers identify and address security vulnerabilities in their applications. The list is updated regularly These risks are ranked according to the frequency of discovered security defects, the severity of the uncovered vulnerabilities, and the magnitude of their potential impact.
 
-- My List 2023
-- [ ] 1. Injection 
-- [ ] 2. Broken Authentication 
-- [ ] 3. Sensitive Data Exposure 
-- [ ] 4. XML External Entities (XXE) 
-- [ ] 5. Broken Access Control 
-- [ ] 6. Security Misconfiguration 
-- [ ] 7. Cross-Site Scripting (XSS) 
-- [ ] 8. Insecure Deserialization 
-- [ ] 9. Using Components with Known Vulnerabilities 
-- [ ] 10. Insufficient Logging and Monitoring 
+- List 2023
+
+- [ ] 1. Broken Access Control: 
+
+> This refers to any system that fails to properly restrict access to resources or data, allowing unauthorized users to gain access.
+
+- [ ] 2. Cryptographic Failures: 
+
+> This occurs when cryptographic security controls fail to protect data and can result in unauthorized access or modification of data.
+
+- [ ] 3. Injection: 
+
+> This occurs when malicious user-supplied data is inserted into an application, allowing attackers to execute malicious code or access confidential data.
+
+- [ ] 4. Insecure Design: 
+
+> This refers to insecure software design practices which can lead to vulnerabilities, such as the lack of input validation, lack of authentication, or weak authorization controls.
+
+- [ ] 5. Security Misconfiguration: 
+
+> This includes any misconfigured security settings or features, such as unpatched systems, disabled security features, or insecure default configurations.
+
+- [ ] 6. Vulnerable and Outdated Components: 
+
+> This refers to the use of vulnerable and outdated libraries, frameworks, or other components, which can lead to security issues if not updated.
+
+- [ ] 7. Insufficient Logging and Monitoring: 
+
+> This refers to a lack of logging and monitoring capabilities, which can make it difficult to detect and investigate security incidents.
+
+- [ ] 8. Cross-Site Scripting (XSS): 
+
+> This is a type of attack which injects malicious code into a web application, allowing attackers to steal data or gain control of the application.
+
+- [ ] 9. Broken Authentication: 
+
+> This refers to the failure of authentication mechanisms, such as passwords or tokens, which can result in unauthorized access to sensitive data or systems.
+
+- [ ] 10. Application Denial of Service: 
+
+> This is a type of attack which renders an application or service unavailable by flooding it with malicious requests or traffic.
+
 
 
 - Learn More URL: [https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
@@ -54,8 +89,29 @@
 
 - Learn More URL: [https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 
+# 6. Cross-Origin Resource Sharing (CORS) 
 
+> Cross-Origin Resource Sharing (CORS) is a mechanism that allows web applications to make requests from different domains . It is a set of rules that define which resources a web application can access from a different domain. CORS works by adding a special response header that allows the web application to specify which other domains are allowed to make requests. When a web application makes a request to a server, the server will check the request headers to determine if the request originates from an allowed domain. If the origin is not an allowed domain, the server will reject the request. CORS is an important security feature that prevents malicious actors from making requests to a web application from outside of the intended domain.
 
+-  Learn More URL: []()
+ 
+# 7. What is TLS?
+ 
+>
+
+- Learn More URL: []()
+
+# 8. What is bcrypt?
+
+>
+
+- Learn More URL: []()
+
+# 9. Server Security
+
+>
+
+- Learn More URL: []()
 
 
 
