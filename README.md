@@ -27,18 +27,17 @@
 
 > The OWASP Top 10 is a list of the ten most common and critical web application security risks. It is designed to help developers identify and address security vulnerabilities in their applications. The list is updated regularly and currently includes the following risks:
 
-| My List 2023 |
-| --- |
-|1. - [ ] Injection | 
-|2. - [ ] Broken Authentication | 
-|3. - [ ] Sensitive Data Exposure | 
-|4. - [ ] XML External Entities (XXE) | 
-|5. - [ ] Broken Access Control | 
-|6. - [ ] Security Misconfiguration | 
-|7. - [ ] Cross-Site Scripting (XSS) | 
-|8. - [ ] Insecure Deserialization | 
-|9. - [ ] Using Components with Known Vulnerabilities | 
-|10. - [ ] Insufficient Logging and Monitoring | 
+- My List 2023
+- [ ] 1. Injection 
+- [ ] 2. Broken Authentication 
+- [ ] 3. Sensitive Data Exposure 
+- [ ] 4. XML External Entities (XXE) 
+- [ ] 5. Broken Access Control 
+- [ ] 6. Security Misconfiguration 
+- [ ] 7. Cross-Site Scripting (XSS) 
+- [ ] 8. Insecure Deserialization 
+- [ ] 9. Using Components with Known Vulnerabilities 
+- [ ] 10. Insufficient Logging and Monitoring 
 
 
 - Learn More URL: [https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
