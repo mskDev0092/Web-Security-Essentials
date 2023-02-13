@@ -73,8 +73,6 @@
 
 > This is a type of attack which renders an application or service unavailable by flooding it with malicious requests or traffic.
 
-
-
 - Learn More URL: [https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
 
 # 4. OWASP Cheat Sheet
@@ -93,23 +91,33 @@
 
 > Cross-Origin Resource Sharing (CORS) is a mechanism that allows web applications to make requests from different domains . It is a set of rules that define which resources a web application can access from a different domain. CORS works by adding a special response header that allows the web application to specify which other domains are allowed to make requests. When a web application makes a request to a server, the server will check the request headers to determine if the request originates from an allowed domain. If the origin is not an allowed domain, the server will reject the request. CORS is an important security feature that prevents malicious actors from making requests to a web application from outside of the intended domain.
 
--  Learn More URL: []()
+-  Learn More URL: [https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
  
 # 7. What is TLS?
  
->
+> Transport Layer Security (TLS) is a cryptographic protocol designed to provide communications security over a computer network. It is the successor protocol to SSL and is widely used for internet communications, such as email and web browsing. TLS uses encryption to ensure that unauthorized individuals are unable to read or modify data sent over the network. It also provides authentication to verify that data is coming from a trusted source. Additionally, TLS provides data integrity, which ensures that data has not been tampered with in transit.
 
-- Learn More URL: []()
+- Learn More URL: [https://www.cloudflare.com/learning/ssl/what-is-ssl/](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+
+- Learn More URL: [https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https](https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https)
 
 # 8. What is bcrypt?
 
->
+> Bcrypt is a password-hashing function designed to make it difficult for attackers to gain access to user accounts by guessing or cracking passwords. It is based on the Blowfish cipher and uses a combination of encryption and hashing to create a secure password hash. Bcrypt is considered to be one of the most secure password-hashing algorithms available and is widely used by many websites and applications.
 
-- Learn More URL: []()
+- Learn More URL: [https://auth0.com/blog/hashing-in-action-understanding-bcrypt/#What-is--bcrypt-](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/#What-is--bcrypt-)
 
 # 9. Server Security
 
->
+> To secure a server, you should take the following steps:
+
+ 1. Enable TLS on the server: TLS provides encryption for data sent over the network, and is used to secure communications between the server and clients.
+ 2. Obtain a CA-signed certificate: A certificate from a trusted Certificate Authority (CA) helps to ensure that the server is authentic and can be trusted by clients.
+ 3. Test and harden the security configuration: Regularly testing and auditing the security configuration of the server can help to identify potential vulnerabilities and ensure that the server is secure.
+ 4. Update Windows Server Update Services (WSUS): WSUS is used to keep Windows Server up to date with the latest security patches.
+ 5. Configure registry settings: Configuring registry settings can help to secure the server and prevent unauthorized access.
+ 6. Monitor server logs: Regularly monitoring server logs can help to identify any suspicious activity and take appropriate action.
+ 7. Use a firewall: A firewall can help to protect the server from malicious traffic and unauthorized access.
 
 - Learn More URL: []()
 
