@@ -111,13 +111,33 @@
 
 > To secure a server, you should take the following steps:
 
- 1. Enable TLS on the server: TLS provides encryption for data sent over the network, and is used to secure communications between the server and clients.
- 2. Obtain a CA-signed certificate: A certificate from a trusted Certificate Authority (CA) helps to ensure that the server is authentic and can be trusted by clients.
- 3. Test and harden the security configuration: Regularly testing and auditing the security configuration of the server can help to identify potential vulnerabilities and ensure that the server is secure.
- 4. Update Windows Server Update Services (WSUS): WSUS is used to keep Windows Server up to date with the latest security patches.
- 5. Configure registry settings: Configuring registry settings can help to secure the server and prevent unauthorized access.
- 6. Monitor server logs: Regularly monitoring server logs can help to identify any suspicious activity and take appropriate action.
- 7. Use a firewall: A firewall can help to protect the server from malicious traffic and unauthorized access.
+- [ ] 1. Enable TLS on the server: 
+ 
+> TLS provides encryption for data sent over the network, and is used to secure communications between the server and clients.
+
+- [ ] 2. Obtain a CA-signed certificate:
+
+>  A certificate from a trusted Certificate Authority (CA) helps to ensure that the server is authentic and can be trusted by clients.
+
+- [ ] 3. Test and harden the security configuration: 
+
+> Regularly testing and auditing the security configuration of the server can help to identify potential vulnerabilities and ensure that the server is secure.
+
+- [ ] 4. Update Windows Server Update Services (WSUS):
+
+>  WSUS is used to keep Windows Server up to date with the latest security patches.
+
+- [ ] 5. Configure registry settings: 
+
+> Configuring registry settings can help to secure the server and prevent unauthorized access.
+
+- [ ] 6. Monitor server logs: 
+
+> Regularly monitoring server logs can help to identify any suspicious activity and take appropriate action.
+
+- [ ] 7. Use a firewall: 
+
+> A firewall can help to protect the server from malicious traffic and unauthorized access.
 
 - Learn More URL: []()
 
