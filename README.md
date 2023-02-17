@@ -5,15 +5,15 @@
 
 | Table of Contents  |
 | --- |
-|1. [HTTPS matters]() |
+|1. [HTTPS matters](https://github.com/mskDev0092/Web-Security-Essentials#1-https-matters) |
 |2. [OWASP Web Application Security Testing Checklist](https://github.com/mskDev0092/Web-Security-Essentials#2-owasp-web-application-security-testing-checklist)  | 
-|3. OWASP Top 10 Security Risks & Vulnerabilities | 
-|4. OWASP Cheat Sheet |
-|5. Content Security Policy (CSP) |
-|6. Cross-Origin Resource Sharing (CORS) |
-|7. What is TLS? |
-|8. What is bcrypt? |
-|9. Server Security |
+|3. [OWASP Top 10 Security Risks & Vulnerabilities](https://github.com/mskDev0092/Web-Security-Essentials#3-owasp-top-10-security-risks--vulnerabilities) | 
+|4. [OWASP Cheat Sheet](https://github.com/mskDev0092/Web-Security-Essentials#4-owasp-cheat-sheet) |
+|5. [Content Security Policy (CSP)](https://github.com/mskDev0092/Web-Security-Essentials#5-content-security-policy-csp) |
+|6. [Cross-Origin Resource Sharing (CORS)](https://github.com/mskDev0092/Web-Security-Essentials#6-cross-origin-resource-sharing-cors) |
+|7. [What is TLS?](https://github.com/mskDev0092/Web-Security-Essentials#7-what-is-tls) |
+|8. [What is bcrypt?](https://github.com/mskDev0092/Web-Security-Essentials#8-what-is-bcrypt) |
+|9. [Server Security](https://github.com/mskDev0092/Web-Security-Essentials#9-server-security) |
 
 # 1. HTTPS matters
 
