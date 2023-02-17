@@ -5,8 +5,8 @@
 
 | Table of Contents  |
 | --- |
-|1. HTTPS matters |
-|2. OWASP Web Application Security Testing Checklist  | 
+|1. [HTTPS matters]() |
+|2. [OWASP Web Application Security Testing Checklist](https://github.com/mskDev0092/Web-Security-Essentials#2-owasp-web-application-security-testing-checklist)  | 
 |3. OWASP Top 10 Security Risks & Vulnerabilities | 
 |4. OWASP Cheat Sheet |
 |5. Content Security Policy (CSP) |
