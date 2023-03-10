@@ -1,7 +1,26 @@
-## Web Security Essentials
+# Web Security Essentials
 
-> Web security essentials refer to the fundamental principles and practices that should be followed in order to ensure the security of web applications. This includes such things as proper authentication and authorization, input validation, output encoding, session management, error handling, and more. Following these security essentials can help to protect web applications from common security vulnerabilities, such as cross-site scripting (XSS) and SQL injection attacks. Additionally, following these security essentials can help to ensure that data is encrypted and secure, and that the integrity of the data is maintained.
+> Web security essentials refer to the fundamental principles and practices that should be followed in order to ensure the security of web applications. 
 
+> This includes such things as proper authentication and authorization, input validation, output encoding, session management, error handling, and more. 
+
+> Following these security essentials can help to protect web applications from common security vulnerabilities, such as cross-site scripting (XSS) and SQL injection attacks. 
+
+> Additionally, following these security essentials can help to ensure that data is encrypted and secure, and that the integrity of the data is maintained.
+
+## Learning web security for different roles in IT requires a different approach for each role. 
+
+> 1. For developers, the focus is on understanding general security principles, such as authentication, authorization, and encryption. It is also important to understand the basics of web application development and how to apply secure coding practices.
+
+> 2. For blue teams, the focus is on threat modeling and understanding the attack surface of applications. It is also important to have an understanding of common attack vectors and the tools used to identify and mitigate these attacks. 
+
+> 3. For frontend developers, the focus is on user interface design and understanding the security implications of the technologies used. It is also important to be aware of common security risks associated with web applications. 
+
+> 4. For system administrators, the focus is on server configuration and understanding best practices for hardening servers. It is also important to have an understanding of network security and how to protect services from attacks.
+
+> 5. Security professionals need to understand all of the above as well as more advanced topics such as cryptography, malware analysis, and reverse engineering.
+
+> "Security is not a product, but a process." – Unknown
 
 | Table of Contents  |
 | --- |
